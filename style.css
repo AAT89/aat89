@@ -41,7 +41,7 @@ hr {
 /* GRID AREA ZONES */
 .header {
   grid-area: header;
-  height: 200px;  
+  height: 80px;  
 }
 
 .nav {

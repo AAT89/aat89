@@ -30,7 +30,7 @@ hr {
 /*   gap: 5px; */
   padding: 5vw;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 20vw 1fr 1fr 20vw;
+  grid-template-rows: 75px 1fr 1fr 20vw;
   grid-template-areas:
     "header header"
     "nav content"

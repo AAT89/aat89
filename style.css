@@ -109,7 +109,7 @@ body {
   flex-wrap: wrap;
   width: 100vw;
   height: 100vh;
-  font-family: Baskerville, "Palatino Linotype", Palatino,
+  font-family: 'brillroman', Baskerville, "Palatino Linotype", Palatino,
     "Century Schoolbook L", "Times New Roman", serif;
   gap: 10px;
   padding: 10px;
@@ -124,7 +124,7 @@ body {
 .name-header {
   display: block;
   color: #000000;
-  font-family: Brill, "Arno Pro", Rotation, "Garamond Premr Pro",
+  font-family: 'brillroman', "Arno Pro", Rotation, "Garamond Premr Pro",
     "EB Garamond 08", MaiolaPro, "Vega antikva";
   src: url(Brill%20Roman%20400.ttf);
   font-size: x-large;
@@ -135,7 +135,7 @@ body {
 }
 /*Sub Headings*/
 .sub-header {
-  font-family: Brill, "Arno Pro", Rotation, "Garamond Premr Pro",
+  font-family: 'brillroman', "Arno Pro", Rotation, "Garamond Premr Pro",
     "EB Garamond 08", MaiolaPro, "Vega antikva";
   font-size: large;
   src: url(Brill%20Roman%20400.ttf);
@@ -174,7 +174,7 @@ body {
 
 /*Main Navigation FONT STYLE*/
 .nav-font {
-  font-family: Brill, "Arno Pro", Rotation, "Garamond Premr Pro",
+  font-family: 'brillroman', "Arno Pro", Rotation, "Garamond Premr Pro",
     "EB Garamond 08", MaiolaPro, "Vega antikva";
   src: url(Brill%20Roman%20400.ttf);
   text-decoration: none;
@@ -207,7 +207,7 @@ body {
 
 /*ABOUT TEXT BOX FONT*/
 .TEXT-BOX-FONT {
-  font-family: Brill, "Arno Pro", Rotation, "Garamond Premr Pro",
+  font-family: 'brillroman', "Arno Pro", Rotation, "Garamond Premr Pro",
     "EB Garamond 08", MaiolaPro, "Vega antikva";
   src: url(Brill%20Roman%20400.ttf);
   font-size: medium;

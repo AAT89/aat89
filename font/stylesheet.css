@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'brillroman';
-    src: url('brill_roman_400-webfont.woff2') format('woff2'),
-         url('brill_roman_400-webfont.woff') format('woff');
+    src: url('../font/brill_roman_400-webfont.woff2') format('woff2'),
+         url('../font/brill_roman_400-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
